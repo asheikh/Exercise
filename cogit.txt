@@ -1,4 +1,9 @@
+THIS is new.
 lets write. Now I can write.
 let see how it work.
 added new text for the exercise.
+<<<<<<< HEAD
 THE IS THE NEW file.
+=======
+good change to make.
+>>>>>>> testing
